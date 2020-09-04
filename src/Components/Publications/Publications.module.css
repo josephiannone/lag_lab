@@ -1,0 +1,14 @@
+.Publications {
+    overflow: auto;
+    margin-top: 15px;
+}
+
+.Publications p {
+    margin-left: 15px;
+    color: white;
+    width: 70%;
+}
+
+.Publications a {
+    color: cornflowerblue;
+}

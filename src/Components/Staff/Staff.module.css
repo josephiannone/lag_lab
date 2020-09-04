@@ -1,0 +1,42 @@
+.Staff p {
+    color: white;
+}
+
+.Staff h3 {
+    color: white;
+}
+
+.Staff {
+    text-align: center;
+}
+
+.Staff img {
+    width: 197px;
+    height: 250px;
+}
+
+
+.Card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Card div {
+    border: 3px solid cornflowerblue;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Card div p {
+    margin: 5px;
+}
+
+.Alumni {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

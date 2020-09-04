@@ -1,0 +1,29 @@
+.Research img {
+    border: 3px solid cornflowerblue;
+    max-width: 450px;
+    max-height: 350px;
+}
+
+.Research p {
+    margin-left: 3%;
+    color: white;
+}
+
+.Research .Cluster {
+    justify-content: center;
+    display: flex;
+    padding: 3%;
+}
+
+.Research .Cluster div {
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+}
+
+.Research .Cluster div i {
+    text-align: center;
+    color: white;
+}
+
+

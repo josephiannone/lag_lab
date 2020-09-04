@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Mono|Roboto+Slab');
+
+
+.Nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 1px solid cornflowerblue;
+}
+
+.Nav2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Nav2 a {
+    padding: 2%;
+    font-family: "Roboto Slab", "serif";
+    text-decoration: none;
+    color: cornflowerblue;
+    opacity: 0.6;
+}
+
+.Nav a:hover {
+    opacity: 1;
+}
+
+.Nav p {
+    font-family: "Roboto Slab", "serif";
+    padding: 3%;
+    margin: 0;
+    font-size: x-large;
+    color: cornflowerblue;
+}
+
+.Nav .Active {
+    opacity:1;
+}
+
+.Nav .Logo {
+    font-weight: bold;
+}

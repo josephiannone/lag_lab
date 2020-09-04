@@ -1,0 +1,16 @@
+
+.Contact {
+    margin-top: 5%;
+    text-align:  center;
+}
+
+.Contact span {
+    font-weight: bold;
+}
+
+.Contact p {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+

@@ -1,0 +1,41 @@
+.Home p {
+    color: white;
+}
+
+.Home a {
+    color: cornflowerblue;
+}
+
+.Home h3 {
+    color: white;
+}
+
+.Home img {
+    width: 100%;
+}
+
+.Home .Cont {
+    position: relative;
+}
+
+.Home .Cont .Title {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align: center;
+    color: white;
+}
+
+.Home .Cont .Title h1 {
+    font-size: 7vw;
+}
+
+.Home .Cont .Title h2 {
+    font-size: 2vw;
+}
+
+.Home .Recent {
+    margin-left: 2%;
+    width: 70%;
+}
